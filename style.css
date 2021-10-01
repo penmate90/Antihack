@@ -7,11 +7,12 @@
     
 }
 #h1{
-    font-size: large;
+    font-size:125px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: red;
+
 }
 #link{
     color: seagreen;
-    font-size: medium;
+    font-size: 80px;
 }
