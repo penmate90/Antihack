@@ -1,0 +1,17 @@
+#b{
+    position: fixed;
+    
+    background-color: aqua;
+    text-align: center;
+
+    
+}
+#h1{
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: red;
+}
+#link{
+    color: seagreen;
+    font-size: medium;
+}
